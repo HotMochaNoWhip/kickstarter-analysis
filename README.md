@@ -13,7 +13,7 @@ Our desired result is to be able to identify differences of Kickstarter outcomes
 ![alt text](https://github.com/HotMochaNoWhip/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-
+![alt text](https://github.com/HotMochaNoWhip/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
