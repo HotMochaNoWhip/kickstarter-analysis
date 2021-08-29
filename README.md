@@ -26,14 +26,14 @@ how often plays were either successful, failed, or cancelled within ranges of go
   
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- What are two conclusions you can draw about the Outcomes based on Launch Date?  
 Based on the Launch Date graph we can see a few things. The two most notable are the most successful range to start is between April and July, while the least successful is between October and December. Another interesting point of data is, that while there is still a very low chance, if a project were to be canceled its more likely to occur in January. 
   
-- What can you conclude about the Outcomes based on Goals?
+- What can you conclude about the Outcomes based on Goals?  
 Looking at the graph we can see the deadzone that was described above to be between 20000 and 35000. You are more likely to succeed between two brackets of fundraising goals: 1 to 20000 and 35000 to 45000. 
   
-- What are some limitations of this dataset?
+- What are some limitations of this dataset?  
 Some of the limitations here are that we are unable to see specific variables. The results for each graph still seems to be vague and slight suggestions that dont let us know just how successful we can be in starting a project. Combining these two tables for each category could provide a more comprehensive analysis on how successful you are likely to be based on how much you need and when you want to start.
   
-- What are some other possible tables and/or graphs that we could create?
+- What are some other possible tables and/or graphs that we could create?  
 As stated above, it would be very beneficial to be able to see a graph that combined the results of both outcomes. Creating something that shows the overal perctage something is successful during a certain time vs. when something is successful based on how much the goal is, could drastically improve the chances of determining when would be best for someone to start their kickstarter based on how much they need to make it work. 
